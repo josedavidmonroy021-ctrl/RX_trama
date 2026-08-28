@@ -1,3 +1,8 @@
 build
 mx.scratch
 !.settings
+
+# Project and IDE generated files
+Project Backups/
+*.pdsprj
+*.workspace
