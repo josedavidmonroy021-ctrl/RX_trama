@@ -121,7 +121,7 @@ SERVO_ANG(&SERVO1, 0.0f);   // centro
 	    procesa_rx(); //procedimeinto donde se procesan los datos
 		  uartRX_DMA_Re_init(&UARTRX1); // y vuelvo a pedir más
 	  }
-    HAL_Delay(500);
+    
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
